@@ -1,4 +1,4 @@
-<h3 align="center">Grupo Agion 🚀</h3>
+<h2 align="center">Grupo Agion 🚀</h2>
 <h5 align="center">
 Agion Tecnologia<br/>
 Agion Desenvolvimento<br/>

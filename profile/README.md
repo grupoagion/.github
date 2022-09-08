@@ -6,5 +6,5 @@ Agion Field<br/>
 Agion...<br/>
 </h5>
 <p align="center">
-<img width="333" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" alt="art gif"/>
+<img width="333" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="art gif"/>
 </p>
